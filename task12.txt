@@ -1,0 +1,7 @@
+#include<iostream>
+using namesapce std;
+main() 
+{        cout<< "Number of square meters you can paint";
+         int sq_meters;
+         cin >> sq_meters;
+         cout << "Width of the single wall (in meters)

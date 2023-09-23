@@ -1,0 +1,56 @@
+#include<iostream>
+using namespace std;
+main()
+{                cout <<"Number 1: ";
+                 int num;
+                 cin >>num1;
+                 cout <<"Number 2: ";
+                 int num;
+                 cin >>num2;
+                 cout <<"Number 3: ";
+                 int num;
+                 cin >>num3;
+                 cout <<"Number 4: ";
+                 int num;
+                 cin >>num4;
+                 cout << "Number 5: ";
+                 int num;
+                 cin >>num5;
+                 cout << "Number 6: ";
+                 int num;
+                 cin >>num6;
+                 cout << "Number 7: ";
+                 int num;
+                 cin >>num7;
+                 cout << "Number 8: ";
+                 int num;
+                 cin >>num8;
+                 cout << "Number 9: ";
+                 int num;
+                 cin >>num9;
+                 cout << "Number 10: ";
+                 int num;
+                 cin >>num10;
+                 cout << "Number 11: ";
+                 int num;
+                 cin >>num11;
+                 cout << "Number 12: ";
+                 int num;
+                 cin >>num12;
+                 cout << "Number 13: ";
+                 int num;
+                 cin >>num13;
+                 cout << "Number 14: ";
+                 int num;
+                 cin >>num14: ";
+                 cout << "Number 15: ";
+                 int num;
+                 cin >>num15;
+                 cout <<"num1+num2+num3+num4+num5" ;
+                 cout << "num6*num7*num8*num9*num10 ";
+                 cout << "num11-num12-num13-num14-num15";
+}
+
+                 
+                 
+                

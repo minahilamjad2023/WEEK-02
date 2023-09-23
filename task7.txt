@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+main() 
+{          cout<<"Enter the movie name: ";
+           string name;
+           cin >> name;
+           cout<<"Enter the adult ticket price: ";
+           int price;
+           cin >>price;
+           cout<<"Enter the child ticket price: ";
+           int price;
+           cin >> price;
+           cout<<"Enter the number of adult tickets sold: ";
+           int number;
+           cin >> number;
+           cout<<"Enter the percentage of the amount to be donated to charity: ";
+          
